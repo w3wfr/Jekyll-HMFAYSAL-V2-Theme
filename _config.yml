@@ -2,14 +2,14 @@ title:            HMFAYSAL V2
 tagline:          Life without Pants!
 description:      An awesome Jekyll theme by Engineer Hossain Mohd Faysal featuring a slide out drawer navigation for mobile browsers.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://v2.theevilgenius.tk
+url:              http://w3wfr.github.io/rcweb2
 
 # Owner/author information
 owner:
   name:           Hossain Mohd Faysal
   avatar:         bio-photo.jpg
   bio:            "Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that’s related to math, from math itself to programming languages to music to physics to engineering to philosophy."
-  email:          hmfaysal@gmail.com
+  email:          alex@w3w.fr
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
   twitter:        hmfaysal
